@@ -4,13 +4,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-![Wessxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wessxn&show_icons=true&theme=tokyonight)
+![itzAutumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wessxn&show_icons=true&theme=tokyonight)
 
-
-<h3 align="left">Socials</h3>
-<p align="left">
-<a href="https://dev.to/wessxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wessxn" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19448080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19448080" height="30" width="40" /></a>
-<a href="https://leetcode.com/wessxn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/wessxn/" height="30" width="40" /></a>
 </p>
 </p>
